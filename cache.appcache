@@ -1,4 +1,11 @@
 CACHE MANIFEST
+
+CACHE:
+http://oss.maxcdn.com/html5shiv/3.7.2/html5shiv-printshiv.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
+http://oss.maxcdn.com/normalize/3.0.2/normalize.min.css
+http://oss.maxcdn.com/respond/1.4.2/respond.min.js
+http://fonts.googleapis.com/css?family=Raleway:200,400,600
 assets/scripts.js
 assets/seelensonne.png
 assets/styles.css
@@ -6,12 +13,10 @@ assets/winter-1-home.jpg
 assets/winter-2-methoden.jpg
 assets/winter-3-ichbin.jpg
 assets/winter-4-kontakt.jpg
-http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
-http://fonts.googleapis.com/css?family=Raleway:200,400,600
-http://oss.maxcdn.com/html5shiv/3.7.2/html5shiv-printshiv.min.js
-http://oss.maxcdn.com/normalize/3.0.2/normalize.min.css
-http://oss.maxcdn.com/respond/1.4.2/respond.min.js
 index.html
 seelensonne.png
 seelensonne.vcf
-v20150303-1025.txt
+v20150303-1448.txt
+
+NETWORK:
+*
